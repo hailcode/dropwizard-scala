@@ -1,0 +1,4 @@
+dropwizard-scala
+================
+
+Dropwizard Scala
